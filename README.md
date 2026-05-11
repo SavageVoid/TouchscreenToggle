@@ -63,7 +63,7 @@ You can remove the application via:
     German
     Russian
 
-🛡 License
+ License
 
     Open Source — MIT License
 
